@@ -6,6 +6,6 @@ similar_patient_algorithm.py
 
 ### Code :
 
-RL_ostium_detection/ : Ostium detection with reinforcement learning algorithms (RL_Ostium_detection). Trained RL model and code in /DQN folder from https://github.com/marcos-mc/RL_landmark_detection_for_cardiac_applications.
+RL_ostium_detection/DQN folder from https://github.com/marcos-mc/RL_landmark_detection_for_cardiac_applications.
 
 
