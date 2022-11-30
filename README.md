@@ -1,8 +1,8 @@
 ### Run : 
 
-RL_ostium_detection/prep2.sh (ostium_detection with reinforcement learning algorithm)
-Parameter_extraxtion/Script.sh  (output: excel with parameters)
-similar_patient_algorithm.py 
+- RL_ostium_detection/prep2.sh (ostium_detection with reinforcement learning algorithm)
+- Parameter_extraxtion/Script.sh  (output: excel with parameters)
+- similar_patient_algorithm.py 
 
 ### Code :
 
