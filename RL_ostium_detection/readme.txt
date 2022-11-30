@@ -1,3 +1,5 @@
+Environemnt install: conda env create -f environment_ost_env_4.yml
+
 Executing prep2.sh runs the image preprocessing, inference in the reinforcement learning algorithm, and ostium detection postprocessing (conversion to world coordinates)
 
 Input: CT image. Saved in /pre_segmentation_test, --landmark_GT (if you have the GT of ostium detection, not needed), --RAS2LPS (1 if RAS CT-image orientation)
